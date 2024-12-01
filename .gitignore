@@ -1,0 +1,20 @@
+# files
+cleaned_dataset.jsonl
+cleaned_test_dataset.jsonl
+deep.py
+trial.py
+excess_finetuning_data.jsonl
+inference_vllm.py
+outputs.txt
+
+#directories
+/data_baseline/
+/data/
+/prompts/
+/generations_llama/
+/generations_llama_baseline/
+/generations_qwen/
+/math_solver_qlora/
+/math_solver_qlora_qwen/
+/wandb/
+/evaluation/
